@@ -11,3 +11,8 @@ body{
 	border:0;
 	background-color:black; 
 }
+.panel{
+	border-radius: 0;
+	border:0;
+	background-color: green;
+}
