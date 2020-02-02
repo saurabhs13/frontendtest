@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	font-style: normal;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}	
+body{
+	background-color: yellow;
+}
+#header-nav{
+	border-radius: 0;
+	border:0;
+	background-color:black; 
+}
