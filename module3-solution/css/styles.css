@@ -1,18 +1,35 @@
-* {
-	box-sizing: border-box;
-	font-style: normal;
-	font-family: Comic Sans MS, Comic Sans, cursive;
-}	
 body{
-	background-color: yellow;
+	background-color: white;
 }
 #header-nav{
 	border-radius: 0;
 	border:0;
-	background-color:black; 
+	background-color:#3b5998; 
+	color: white;
 }
 .panel{
 	border-radius: 0;
 	border:0;
-	background-color: green;
+	background-color: #dcf3ff;
+}
+.nav>li{
+	display:block;
+}
+.navbar-default .navbar-nav>li>a{
+     color: white;
+}
+.navbar-default .navbar-brand{
+	 color: white;
+	 font-weight:bold;
+	font-size:2em;
+}
+#nav-list>li{
+	border-bottom: 1px solid white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+.navbar-nav{
+	margin-bottom:0px;
+	margin-top: 0px;
 }
