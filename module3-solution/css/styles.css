@@ -33,3 +33,12 @@ body{
 	margin-bottom:0px;
 	margin-top: 0px;
 }
+#ourmenu{
+	 font-weight:bold;
+	font-size:1.75em;
+}
+h2{
+	font-size:1.6em;
+	font-weight:bold;
+	padding-top:10px;
+}
